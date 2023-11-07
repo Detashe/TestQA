@@ -1,0 +1,1 @@
+allure generate --clean C:\1C\Allure-result && allure open

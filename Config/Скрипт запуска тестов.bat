@@ -1,0 +1,1 @@
+"C:\Program Files\1cv8\8.3.23.1782\bin\1cv8c" /N"CI" /P"CI" /TestManager /Execute "C:\Документы\1С\1C Базы\vanessa-automation\vanessa-automation.epf" /IBConnectionString "File=""C:\Users\lelki\Documents\DemoIRP"";" /C"StartFeaturePlayer;VAParams=C:\1C\Git\TestQA\Config\VAParams_Auto.json"
